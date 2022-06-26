@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amin Balouchi
-- 👀 I’m interested in data wrangling things. Anything which related to data makes me high
+- 👀 I’m interested in data wrangling tasks. Anything which related to data makes me high
 - 🌱 I’m currently learning Scala and stream processing
 - 📫 How to reach me --> Email: aminbalouchi@outlook.com
 
