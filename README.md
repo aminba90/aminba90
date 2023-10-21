@@ -31,7 +31,7 @@ Thank You for taking the time to view my GitHub Profile.
      <a href="https://www.hackerrank.com/aminbalouchi"><img title="HackerRank" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"   width="100" height="50" /></a>
   <a href="mailto:aminbalouchi90@gmail.com"><img title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"   width="100" height="50" /></a>
   <a href="https://www.linkedin.com/in/aminbalouchi/"><img title="Linkedin" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"   width="100" height="50" /></a>
-  <a href="https://www.leetcode.com/aminba90"><img title="LeetCode" src="https://cdn.worldvectorlogo.com/logos/leetcode-icon.svg"   width="100" height="50" /></a>
+  <a href="https://www.leetcode.com/aminba90"><img title="LeetCode" src="https://cdn.worldvectorlogo.com/logos/leetcode-icon-2.svg"   width="100" height="50" /></a>
 </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
