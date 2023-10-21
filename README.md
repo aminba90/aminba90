@@ -28,10 +28,10 @@ Thank You for taking the time to view my GitHub Profile.
 
 <p align="center">
      <a href="https://wa.me/+989125171527"><img alt="WhatsApp"  title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"   width="100" height="50" /></a>
-     <a href="twitter.com/aminba90"><img alt="Me"  title="Icloud Mail" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"   width="100" height="50" /></a>
+     <a href="twitter.com/AmIn0ooo0"><img alt="Me"  title="Icloud Mail" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"   width="100" height="50" /></a>
      <a href="https://www.hackerrank.com/aminbalouchi"><img title="HackerRank" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"   width="100" height="50" /></a>
   <a href="mailto:aminbalouchi90@gmail.com"><img title="CodeWars" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"   width="100" height="50" /></a>
-  <a href="https://www.linkedin.com/in/amin-balouchi-74097869/"><img title="Linkedin" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"   width="100" height="50" /></a>
+  <a href="https://www.linkedin.com/in/aminbalouchi/"><img title="Linkedin" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"   width="100" height="50" /></a>
 </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
